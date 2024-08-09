@@ -5,4 +5,4 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 douglas.cruz@educacao.sp.gov.br
-![](https://blog.usare.com.br/memes-de-volta-ao-trabalho/)
+![]https://blog.usare.com.br/memes-de-volta-ao-trabalho/
